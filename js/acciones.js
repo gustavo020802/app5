@@ -1,6 +1,6 @@
 // JavaScript Document
 
-$(document).read(function(e){
+$(document).ready(function(e){
 document.addEventListener("deviceready", function(){
 	
 $('#beep').tap(function(){
